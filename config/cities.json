@@ -1,0 +1,27 @@
+[
+    {
+        "city": "Dublin",
+        "latitude": 53.3498,
+        "longitude": -6.2603
+    },
+    {
+        "city": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+    },
+    {
+        "city": "Mumbai",
+        "latitude": 19.0760,
+        "longitude": 72.8777
+    },
+    {
+        "city": "Singapore",
+        "latitude": 1.3521,
+        "longitude": 103.8198
+    },
+    {
+        "city": "Dubai",
+        "latitude": 25.2048,
+        "longitude": 55.2708
+    }
+]
